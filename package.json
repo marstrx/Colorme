@@ -1,14 +1,18 @@
 {
   "name": "@marstrx/colorme",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple terminal text coloring",
   "main": "index.js",
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["colors", "terminal", "console", "nodejs"],
+  "keywords": [
+    "colors",
+    "terminal",
+    "console",
+    "nodejs"
+  ],
   "author": "https://github.com/marstrx",
   "license": "ISC"
 }
