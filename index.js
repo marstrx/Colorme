@@ -1,1 +1,1 @@
-export {green} from "./colors/green";
+export * from "./colors/green";
