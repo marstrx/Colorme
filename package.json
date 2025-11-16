@@ -1,11 +1,15 @@
 {
-  "name": "@marstrx/colorme",
+  "name": "@marstrx/terminal-colors",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Simple terminal text coloring",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marstrx/terminal-colors.git"
   },
   "keywords": [
     "colors",
@@ -13,6 +17,10 @@
     "console",
     "nodejs"
   ],
-  "author": "https://github.com/marstrx",
-  "license": "ISC"
+  "author": "marstrx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marstrx/terminal-colors/issues"
+  },
+  "homepage": "https://github.com/marstrx/terminal-colors#readme"
 }
